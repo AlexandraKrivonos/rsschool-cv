@@ -28,3 +28,13 @@ In classroom we created desktop applications like calculator or text editor, but
 ## Experience
 > - *project* : text editor (C++)
 > - *coding tests*: Java/C++
+
+## Education
+- C++ (course in the university)
+- Java (Stormnet)
+- HTML/CSS (Stepik, Code-Basics)
+- JavaScript for Beginners (Stepik)
+- Numerical methods and Algorithms(course in the university)
+
+## English
+I try to improve my English skills daily: videos with native speakers, entertainment content on Puzzle-English, books like Twilight. I also studied technical English at the university. I'm aware of my Russian pronunciation, so I lack confidence in fluently speaking. I try to learn it profoundly.
