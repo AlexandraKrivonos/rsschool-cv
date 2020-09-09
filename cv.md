@@ -1,5 +1,5 @@
 # My Junior Developer Resume
-![](https://github.com/AlexandraKrivonos/assets-for-cv/bl..)
+![](https://github.com/AlexandraKrivonos/assets-for-cv/blob/master/ezgif-6-2b097bf2552f.gif)
 
 My name is Alexandra Krivonos!
 
@@ -15,7 +15,7 @@ Why programming? I don't remember maybe because then I only knew PascalABC and d
 
 In classroom we created desktop applications like calculator or text editor, but in this process is more liked to think over frontend part. Then summer came and I went to Java courses. I'm inclined to believe that choose Java because it was intuitive to me. I felt out of place when I was going there. Now I can't say that it was wasted because I got to know teamwork and a community of amazing people. Then I decided to try something new that didn't feel like Java or C++, in winter I took online-courses of programming in HTML and CSS. And now I'm here to learn new things and develop!
 
-![](https://github.com/AlexandraKrivonos/assets-for-cv/bl..)
+![](https://github.com/AlexandraKrivonos/assets-for-cv/blob/master/mp42.gif)
 
 ## My skills:
 - C++
@@ -24,6 +24,7 @@ In classroom we created desktop applications like calculator or text editor, but
 - JavaScript Basic
 
 ## The latest code example
+[link to example](https://github.com/AlexandraKrivonos/assets-for-cv/blob/master/newtonMethod.java)
 
 ## Experience
 > - *project* : text editor (C++)
